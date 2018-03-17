@@ -1,0 +1,37 @@
+A
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: #ff0000;
+    TEXT-DECORATION: underline
+}
+BODY
+{
+    MARGIN-TOP: 0px;
+    FONT: 10pt verdana;
+    MARGIN-LEFT: 0px;
+    COLOR: #000000;
+    BACKGROUND-COLOR: #e7e7e7
+}
+TABLE
+{
+    FONT-SIZE: 10pt
+}

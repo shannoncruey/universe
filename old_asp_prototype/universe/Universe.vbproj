@@ -1,0 +1,206 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Web"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{568665E2-9CA1-4EA1-992E-E1B2A78778CA}"
+        SccProjectName = '"$/Universe", YCAAAAAA'
+        SccLocalPath = "."
+        SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "Universe"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Flow"
+                DefaultTargetSchema = "IE32Nav30"
+                DelaySign = "false"
+                OutputType = "Library"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "Universe"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References/>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "System" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "asp\assets.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\attack.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\changelocation.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\claim.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\command.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\contact.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\convert.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\default.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\details.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\Live_Action_Server.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\login.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\main.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\manage.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\move.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\moveaction.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\msgaction.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\playerdetails.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\readmessages.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\rules.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\sensorlogs.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\sensorsweep.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\sod.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\statusbar.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\trade.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "asp\transfergoods.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "data\universe.ldb"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "data\universe.mdb"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "images\mmc.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "include\DataAccess.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "include\Security.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "include\Server.asp"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "script\style_bottom.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "script\style_main.css"
+                    BuildAction = "Content"
+                />
+            </Include>
+        </Files>
+    </VisualBasic>
+</VisualStudioProject>
+

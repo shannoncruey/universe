@@ -1,0 +1,38 @@
+<hr>LONG RANGE SENSORS<hr>
+<%
+'If the object is equipped with LRS, then scan...
+
+sSQL = "SELECT AVALUE FROM Attributes WHERE ANAME = 'LRS' and OID = " & sOID
+Set RS = MyConn.Execute(sSQL)
+
+If RS("AValue") > 0 then
+	
+
+	LowX = sX - RS("AValue")
+	HighX = sX + RS("AValue")
+	LowY = sY - RS("AValue")
+	HighY = sY + RS("AValue")
+	LowZ = sZ - RS("AValue")
+	HighZ = sZ + RS("AValue")
+
+	sSQL = "SELECT * FROM Objects WHERE X BETWEEN " & _
+	       LowX & " AND " & HighX & " AND Y BETWEEN " & _
+	       LowY & " AND " & HighY & " AND Z BETWEEN " & _
+	       LowZ & " AND " & HighZ & _
+	       " AND OID <> " & sOID & " ORDER BY X,Y,Z"
+	
+	Set RS = MyConn.Execute(sSQL)
+	
+	If RS.EOF = FALSE Then
+		Do Until RS.EOF
+			response.write "<br><a href='details.asp?OID=" & _
+			RS("OID") & "'>" & RS("ObjectName") & "</a>"
+			RS.MoveNext
+		Loop
+	else
+		response.write "<br>None"
+	end if
+end if
+RS.Close
+myConn.Close
+%> 

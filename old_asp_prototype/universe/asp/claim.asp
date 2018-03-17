@@ -1,0 +1,1 @@
+You canclaim anything. However, some claiming may be stupid, like claiming a star.  If the object has an owner, you have to use force or diplomacy.  In order to claim an object, you must be docked. (For now, docked is within 50 units of XYZ.)

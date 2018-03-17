@@ -1,0 +1,48 @@
+A
+{
+    COLOR: maroon;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    COLOR: red;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: green;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: red;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: red;
+    TEXT-DECORATION: underline
+}
+BODY
+{
+    MARGIN-TOP: 0px;
+    FONT: 10pt verdana;
+    MARGIN-LEFT: 0px;
+    COLOR: #000000;
+    BACKGROUND-COLOR: white
+}
+TABLE
+{
+    FONT-SIZE: 10pt
+}
+INPUT
+{
+    BORDER-RIGHT: black 1px solid;
+    PADDING-RIGHT: 2px;
+    BORDER-TOP: black 1px solid;
+    PADDING-LEFT: 2px;
+    PADDING-BOTTOM: 2px;
+    BORDER-LEFT: black 1px solid;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: black 1px solid
+}
