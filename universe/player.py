@@ -1,6 +1,7 @@
-import random
 import shared
 from bson import ObjectId
+import common
+
 
 class Player():
     def __init__(self, _name):
@@ -34,7 +35,7 @@ class Player():
         # it folds space and instantly appears in the destination
         # however, since you're folding space-time, there's a
         # known time cost for jumping.
-        
+
         # at the moment the time cost is free = instant
         if oid:
             obj = shared.DB.objects.find_one({"_id": ObjectId(oid)})
@@ -53,8 +54,7 @@ class Player():
                                      "z": pos[2],
                                     }})
             self.pos = (pos[0], pos[1], pos[2])
-        
-        
+
     def scan(self, range=None):
         """
         # find objects near me
@@ -68,6 +68,8 @@ class Player():
         to detect a planet you must be within one BASEUNIT
         to detect a moon you must be within 300 of a planet
         """
+        global BASEUNIT
+
         hits = []
         
         def _scanrange(range, _type):
@@ -86,16 +88,16 @@ class Player():
                                          })
             if cur:
                 hits.extend(list(cur))
-        
+
         # stars
-        _scanrange(2000 * BASEUNIT, "star")
+        _scanrange(2000 * common.BASEUNIT, "star")
         # planets n stuff
-        _scanrange(BASEUNIT, "planet")
+        _scanrange(common.BASEUNIT, "planet")
         # moons gotta be real close
-        _scanrange(SYSTEM, "moon")
-        
+        _scanrange(common.SYSTEM, "moon")
+
         shared.log.info(len(hits))
-        
+
         # log all the hits in your sensor log
         for h in hits:
             log = {
@@ -113,7 +115,6 @@ class Player():
                  "oid": str(h["_id"])
                  }
             shared.DB.sensorlogs.update(q, log, upsert=True)
-
 
     @staticmethod
     def new(_name):

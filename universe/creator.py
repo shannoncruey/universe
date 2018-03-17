@@ -1,37 +1,23 @@
 import random
 import shared
+import common
 from bson import ObjectId
 
-"""
-coordinate system is based on light minutes
-
-So, for a real world example, proxima centauri is 4.3ly away,
-
-4.3*365*24*60 = 2,260,080 lm
-
-"""
-
-# 1 - the base unit of distance
-BASEUNIT = 525600
-# VOID - multiplier to create 'padding' between stars
-VOID = 9999
-# SYSTEM - maximum distance of a planet from it's star
-SYSTEM = 300
 
 def create_stars():
     """
     Will speak stars into existence.
     """
     shared.log.info("Generating the galaxy...")
-    
+
     i = 0
-    space = VOID * BASEUNIT
+    space = common.VOID * common.BASEUNIT
     
     while i < 500:
         x = int(random.uniform(-space, space))
         y = int(random.uniform(-space, space))
         z = int(random.uniform(-space, space))
-        
+
         star = {
                 "type": "star", 
                 "x": x,
@@ -40,15 +26,15 @@ def create_stars():
                 }
         star_id = shared.DB.objects.insert(star)
         i += 1
-        
+
         # planets will be between 10 and 300 light minutes of a star
         # 0-10 planets will be created
         numplanets = random.uniform(0, 10)
         p = 0
         while p < numplanets:
-            px = x + int(random.uniform(10, SYSTEM))
-            py = y + int(random.uniform(10, SYSTEM))
-            pz = z + int(random.uniform(10, SYSTEM))
+            px = x + int(random.uniform(10, common.SYSTEM))
+            py = y + int(random.uniform(10, common.SYSTEM))
+            pz = z + int(random.uniform(10, common.SYSTEM))
             planet = {
                     "type": "planet", 
                     "star_id": str(star_id), 
@@ -82,4 +68,3 @@ def purge():
     # whack stuff
     shared.DB.objects.remove()
     shared.DB.sensorlogs.remove()
-    
