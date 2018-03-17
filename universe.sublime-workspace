@@ -1,0 +1,1413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sCod",
+				"sCodeblockName\tstatement"
+			],
+			[
+				"Server",
+				"ContinuumServer"
+			],
+			[
+				"Funct",
+				"function_xml"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: remove",
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"anacon",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: upda",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+			"flake8",
+			"sys.version",
+			"sys.path",
+			"sys",
+			"sys.argv[0]",
+			"import sys",
+			"import pep8",
+			"sys.version",
+			"sys.path",
+			"import sys",
+			"sys.path",
+			"import pep8",
+			"import os",
+			"version",
+			"hash -r",
+			"a",
+			"a=1",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/shannon/Dropbox/dev/newgame/lib/ui.py",
+		"/Users/shannon/Dropbox/dev/newgame/lib/shared.py",
+		"/Users/shannon/Dropbox/dev/newgame/lib/creator.py",
+		"/Users/shannon/Dropbox/dev/newgame/lib/player.py",
+		"/Users/shannon/Projects/continuum/canvas/resource/tools/support/support.html",
+		"/Users/shannon/Projects/continuum/canvas/resource/tools/support/support.layout",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/main/main.layout",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/main/main.html",
+		"/Users/shannon/Projects/continuum/scripts/features/navigation/V1Logo.js",
+		"/Users/shannon/Projects/continuum/continuum/cclcanvas/dash.py",
+		"/Users/shannon/Projects/continuum/canvas/resource/canvas/common/header-footer.html",
+		"/Users/shannon/Projects/continuum/canvas/resource/canvas/home/home.layout",
+		"/Users/shannon/Projects/continuum/canvas/resource/canvas/home/home.html",
+		"/Users/shannon/Projects/continuum/templates/home.html",
+		"/Users/shannon/Projects/continuum/canvas/resource/opsboard/home/home.layout",
+		"/Users/shannon/Projects/continuum/continuum/cskrepopoller/cskrepopoller.py",
+		"/Users/shannon/Projects/continuum/common/bin/ctm-repopoller",
+		"/Users/shannon/Projects/continuum/common/lib/catoconfig/catoconfig.py",
+		"/Users/shannon/Desktop/DOCKER SETUP INSTRUCTIONS FIRST PASS",
+		"/Users/shannon/Desktop/REVIEW THAT ALL PROCESSES CAN SAFELY RUN SIMULTANE",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/packagemanifest/packagemanifest.layout",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/packagemanifest/manifest.js",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/packagemanifest/manifest.html",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/minimal/minimal.html",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/minimal/minimal.js",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/minimal/minimal-data2.widget",
+		"/Users/shannon/Projects/continuum/canvas/resource/demos/minimal/minimal-data3.widget",
+		"/Users/shannon/Projects/continuum/continuum/ctmcore/core.json",
+		"/Users/shannon/Projects/continuum/continuum/catoscheduler/catoscheduler.py",
+		"/Users/shannon/Projects/continuum/continuum/messenger/messenger.py",
+		"/Users/shannon/Projects/continuum/continuum/cskjobhandler/cskjobhandler.py",
+		"/Users/shannon/Projects/continuum/continuum/ctmcore/ctmcore.py",
+		"/Users/shannon/Projects/continuum/build/docker/Dockerfile",
+		"/Users/shannon/Projects/continuum/continuum/cskpipeline/package.py",
+		"/Users/shannon/Projects/continuum/common/lib/catocommon/catoprocess.py",
+		"/Users/shannon/Projects/continuum/common/bin/ctm-core",
+		"/Users/shannon/Projects/continuum/common/lib/catocommon/catocommon.py",
+		"/Users/shannon/Projects/continuum/common/bin/ctm-autoscheduler",
+		"/Users/shannon/Projects/continuum/common/updatedb.py",
+		"/Users/shannon/Projects/continuum/common/install/mongoconfig.yaml",
+		"/Users/shannon/Projects/continuum/common/rebuild_mongodb_indexes.py",
+		"/Users/shannon/Projects/continuum/continuum/catoapi/taskMethods.py",
+		"/Users/shannon/Projects/continuum/continuum/metrics/housekeeping.py",
+		"/Users/shannon/Projects/continuum/common/install/init_mongodb.py",
+		"/Users/shannon/Projects/continuum/continuum/cskcdapi/api.py",
+		"/Users/shannon/Projects/continuum/continuum/cskui/apihandler.py",
+		"/Users/shannon/Projects/continuum/continuum/cskcdapi/apiMethods.py",
+		"/Users/shannon/Projects/continuum/continuum/catoapi/api.py",
+		"/Users/shannon/Projects/continuum/continuum/catopoller/catopoller.py",
+		"/Users/shannon/Projects/continuum/common/lib/jobqueue/subscriber.py",
+		"/Users/shannon/Projects/continuum/continuum/catotask/task.py",
+		"/Users/shannon/Projects/continuum/common/conf/default.service.conf",
+		"/Users/shannon/Projects/continuum/continuum/catoui/uiCommon.py",
+		"/Users/shannon/Projects/continuum/README.md",
+		"/Users/shannon/Projects/continuum/continuum/catoscheduler/schedcommon.py",
+		"/Users/shannon/Projects/continuum/common/conf/default.worker.service.conf",
+		"/Users/shannon/Projects/continuum/build/docker/supervisord.conf",
+		"/Users/shannon/Projects/continuum/common/lib/catosettings/settings.py",
+		"/Users/shannon/Projects/continuum/continuum/messenger/queue.py",
+		"/Users/shannon/Projects/continuum/continuum/ctmcore/core.yaml",
+		"/Users/shannon/Desktop/MULTI_INSTANCE CONTINUUM.txt",
+		"/Users/shannon/Desktop/HOW TO SET UP THREE SERVER CONTINUUM",
+		"/Users/shannon/Dropbox/dev/recurrence/recurrence.py",
+		"/Users/shannon/Dropbox/dev/recurrence/recurrence.yaml",
+		"/Users/shannon/Dropbox/dev/recurrence/recurrence/examples.py",
+		"/Users/shannon/Dropbox/dev/recurrence/recurrence/moar_examples.py",
+		"/Users/shannon/Projects/continuum/continuum/cskconfig/config.py",
+		"/Users/shannon/Dropbox/dev/recurrence/recurrence.json",
+		"/Users/shannon/Projects/continuum/continuum/cskmetrics/cskmetrics.py",
+		"/Users/shannon/Dropbox/dev/recurrence/recurrence/global.py",
+		"/Users/shannon/Dropbox/dev/recurrence/recurrence/utility.py",
+		"/Users/shannon/Projects/continuum/common/bin/ctm-metrics",
+		"/Users/shannon/Projects/continuum/velocity/lib/catolicense/catolicense.py",
+		"/Users/shannon/Projects/continuum/continuum/catolicense/catolicense.py",
+		"/Users/shannon/Projects/continuum/continuum/cskpipeline/change.py",
+		"/Users/shannon/Projects/continuum/flow/lib/cskpipeline/release.py",
+		"/Users/shannon/Projects/continuum/webpack/webpack.devServer.js",
+		"/Users/shannon/Projects/continuum/webpack/webpack.devServer.config.json",
+		"/Users/shannon/Projects/continuum/continuum/cskui/coreMethods.py",
+		"/Users/shannon/Projects/continuum/continuum/cskapi/sysMethods.py",
+		"/Users/shannon/Projects/continuum/common/lib/jobqueue/jobqueue.py",
+		"/Users/shannon/Projects/continuum/continuum/catotask/cmdtest.py",
+		"/Users/shannon/Projects/continuum/build/upload.sh",
+		"/Users/shannon/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/shannon/Dropbox/dev/VersionOne/continuum.sublime-project",
+		"/Users/shannon/Projects/continuum/plugins/flow/config.yaml",
+		"/Users/shannon/Projects/continuum/plugins/flow/pipeline.py",
+		"/Users/shannon/Projects/continuum/continuum/metrics/metrics.json",
+		"/Users/shannon/Projects/continuum/continuum/cskpipeline/release.py",
+		"/Users/shannon/Projects/continuum/continuum/cskpipeline/common.py",
+		"/Users/shannon/Projects/continuum/continuum/cskcdui/uiMethods.py",
+		"/Users/shannon/Projects/continuum/continuum/cskmsghub/cskmsghub.py",
+		"/Users/shannon/Projects/continuum/common/lib/jobqueue/publisher.py",
+		"/Users/shannon/Projects/continuum/common/bin/ctm-cirunner",
+		"/Users/shannon/Desktop/PROBLEMS and our SOLUTIONS",
+		"/Users/shannon/Desktop/CONTINUUM REGRESSION.txt",
+		"/Users/shannon/Desktop/pipeline step agent items",
+		"/Users/shannon/Desktop/PIPELINE REGRESSION TESTING",
+		"/Users/shannon/Projects/continuum/common/bin/ctm-jobhandler",
+		"/Users/shannon/Projects/continuum/common/lib/catocommon/worker.py",
+		"/Users/shannon/Projects/continuum/continuum/cskui/uihandler.py",
+		"/Users/shannon/Projects/continuum/common/bin/ctm-poller",
+		"/Users/shannon/Projects/continuum/common/install/install.sh",
+		"/Users/shannon/Projects/continuum/build/install.sh",
+		"/Users/shannon/Projects/continuum/build/workerinstall.sh",
+		"/Users/shannon/Projects/continuum/continuum/cskapi/teMethods.py",
+		"/Users/shannon/Projects/continuum/common/install/ctm-encrypt",
+		"/Users/shannon/Projects/continuum/extensions/flow/flowcmds.py",
+		"/Users/shannon/Projects/continuum/continuum/catotaskengine/catotaskengine.py",
+		"/Users/shannon/Projects/continuum/extensions/flow/flow_commands.xml",
+		"/Users/shannon/Projects/continuum/continuum/cskpipeline/steprunner.py",
+		"/Users/shannon/Projects/continuum/scripts/pages/taskEdit.js",
+		"/Users/shannon/Projects/continuum/styles/sizing.less",
+		"/Users/shannon/Projects/continuum/continuum/cskpipeline/artifact.py",
+		"/Users/shannon/Projects/continuum/continuum/cskapi/api.py",
+		"/Users/shannon/Projects/continuum/plugins/plugincommon/workerutils.py",
+		"/Users/shannon/Projects/continuum/continuum/cskpipeline/pipeline.py",
+		"/Users/shannon/Projects/continuum/client/ctmcommands/automate/importbackup.py",
+		"/Users/shannon/Projects/continuum/plugins/v1plugin/main.py",
+		"/Users/shannon/Projects/continuum-tools/test_pipelines/test_findinarray.json",
+		"/Users/shannon/Projects/continuum/plugins/utility/utility.py",
+		"/Users/shannon/Projects/continuum-tools/test_assets/pipelines/Test Loop.json",
+		"/Users/shannon/Projects/continuum-tools/test_pipelines/test_loop.json",
+		"/Users/shannon/Projects/continuum-tools/test_pipelines/test_teamcity.json",
+		"/Users/shannon/Projects/continuum-tools/test_pipelines/test_slack.json",
+		"/Users/shannon/Projects/continuum-tools/test_pipelines/test_plugin_configs.json",
+		"/Users/shannon/Projects/continuum/continuum/cskautomateui/uiMethods.py",
+		"/Users/shannon/Projects/continuum/continuum/cskcdui/cskcdui.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,*.py",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*, *.less",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*, *.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*, *.xml",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,*client/bin/ctm-*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,*/bin/ctm-*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,ctm-*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/.continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*.js,*/scripts",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*.js,*flow/",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*.js,*/flow",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*/flow/*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,/flow/*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,*/common/install/*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,/common/install/*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,/common/install",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,/Users/shannon/Projects/continuum/canvas",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, *.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,/Users/shannon/Projects/continuum/canvas/dash/resource",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,/Users/shannon/Projects/continuum/automate",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, +/automate/*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, +/automate",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, automate",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, automate",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, *.yaml",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, *.yaml",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, *.py",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, *.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, *.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*, *.py",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,-*/canvas*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,-*/deploy*,-*/canvas*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"<project>",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.happypack*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,*/automate*,*.py",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,*.py",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,+*/automate*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*, */automate*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,*.py",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*,*.py",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*,-*/deploy*",
+			"-*/dist*,-*/node_modules*,-*/.git*,-*/continuum-tools*",
+			"-*/dist*,-*/node_modules*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.git*,/Users/shannon/Projects/continuum/automate",
+			"-*/dist*,-*/node_modules*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.git*,/Users/shannon/Projects/continuum/automate",
+			"-*/dist*,-*/node_modules*,-*/.git*,/Users/shannon/Projects/continuum/deploy",
+			"-*/dist*,-*/node_modules*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.git*,/Users/shannon/Projects/continuum/automate",
+			"-*/dist*,-*/node_modules*,-*/.git*,/Users/shannon/Projects/continuum/scripts/pages",
+			"-*/dist*,-*/node_modules*,-*/.git*,/Users/shannon/Projects/continuum/automate",
+			"-*/dist*,-*/node_modules*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.git*, *.py",
+			"-*/dist*,-*/node_modules*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.git*, *.js",
+			"-*/dist*,-*/node_modules*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*/.git*,*.js",
+			"-*/dist*,-*/node_modules*,-*/.git*",
+			"-*/dist*,-*/node_modules*,-*.git*",
+			"-*/dist*,-*/node_modules*,-.git*",
+			"-*/dist*,-*/node_modules*",
+			"-*/dist/scripts/*",
+			"",
+			"-*/dist/scripts/*",
+			"-/dist/scripts/*",
+			"-/dist",
+			"",
+			"/Users/shannon/Projects/continuum/flow",
+			"*.css",
+			"",
+			"/Users/shannon/Projects/continuum-docs",
+			"/Users/shannon/Projects/continuum/flow,/Users/shannon/Projects/continuum/common"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"well well-sm",
+			"btn btn-primary btn-sm",
+			"button",
+			"icon-progression-metrics",
+			"v1-logo",
+			"top-nav",
+			"app_header_logo",
+			"templates",
+			"\"styles\":",
+			"player1",
+			"well-sm",
+			"app_footer",
+			"span",
+			"2015 VersionOne",
+			"repopoller_de",
+			"repo_poller",
+			"metrics_debug",
+			"ADD",
+			"datetime",
+			"\\n#### ",
+			"send_to_job",
+			"Thread",
+			"clear_scheduled_action",
+			"action_plans",
+			"timedelta",
+			"run_schedule_instance",
+			"timedelta",
+			"$or",
+			"instance",
+			"limit(1)",
+			".count(",
+			".count",
+			"unique",
+			"create_index",
+			"createindex",
+			"createIndex",
+			"run_schedule_instance",
+			"clear_scheduled_action_plans",
+			"cskcdapi",
+			"apiMethods",
+			"run_schedule_instance",
+			"Thread",
+			"find_and_modify",
+			"ctm-auto",
+			"get_cron",
+			"logger",
+			"new_mongo_conn",
+			"mdb",
+			"LoopDelay",
+			"scheduler_debug",
+			"cskmetrics",
+			"ctm-metrics",
+			"cskmetrics",
+			"ctm-metrics",
+			"ctm-messenger",
+			"run_metric",
+			"PollLoop",
+			"check_for_emails",
+			"Publisher",
+			"enabled",
+			"msghub_enabled",
+			"catoconfig",
+			"core_debug",
+			"PollLoop",
+			"core_debug",
+			"metric",
+			"metrics",
+			"f.",
+			"metrics_debug",
+			"threading",
+			"multiprocess_callback",
+			"\"",
+			"sleep",
+			"loop",
+			"datetime",
+			"yaml.load",
+			"yaml",
+			"import yaml",
+			"metric",
+			"ensure_exists",
+			"txt[:75]",
+			"pending",
+			"Interaction",
+			"processing",
+			"devMiddleware",
+			"Continuum CI",
+			"repl",
+			"replica",
+			"create_canvas_item",
+			"wmSaveEditConfig",
+			"wmSave",
+			"wmSaveSetting",
+			"MongoClient",
+			"write_concern",
+			"register_artifact",
+			"pipeline.register_artifact",
+			"New Revision",
+			"run_metric",
+			"mongo",
+			"repoprojects",
+			"send_to_jobhandler",
+			".messages",
+			"timing",
+			"msghub_external_url",
+			"msghub",
+			"msghub_url",
+			"_update_msg_status",
+			"Subscriber(",
+			"Publisher(",
+			"Publisher",
+			"JobQueue",
+			".queu",
+			"MongoQueue",
+			"MongoClient",
+			"FORBIDDEN",
+			"Forbidden for url",
+			"int(",
+			"mongodb_write_concern",
+			"MongoDB",
+			"Project Canvas",
+			"CONFIG",
+			"_get_cfgs_from_mongo",
+			"_sys",
+			"mongodb_server",
+			"ui_port",
+			"mongodb_server",
+			"traceback",
+			"login_password"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"panel",
+			"button tiny",
+			"button",
+			"\\n\\n######## ",
+			"self.mdb",
+			"func",
+			"functions",
+			"'",
+			"item",
+			"",
+			"print",
+			"sys.path.append(",
+			"",
+			"import",
+			"",
+			"canvas",
+			"\"continuum\"",
+			"ALL_VERSION_REVISIONS",
+			"self",
+			"platform-api",
+			"Ready for Delivery",
+			"Performance Test",
+			"Regression Test",
+			"Acceptance Test",
+			"CTFMobile_M",
+			"  - artf",
+			" - artf",
+			"self.worker",
+			"",
+			"\\\\",
+			"validate()",
+			"",
+			"\"] = ",
+			"obj",
+			"SELECTED_ID",
+			"SELECTED_HANDLER",
+			"HANDLERS",
+			"",
+			"bkt",
+			"document",
+			"seconds: 10",
+			"$]",
+			"[$",
+			"seconds: 20",
+			"LASTENV",
+			"env",
+			"phasedoc",
+			"",
+			"flow",
+			"",
+			"\\n",
+			"",
+			"True",
+			"args.get(\"cenode\")",
+			"ObjectId(args.get(\"cenode\"))",
+			"args.get(\"cenode\")",
+			"cenode = int(args.get(\"cenode\"))",
+			"int(cenode = args.get(\"cenode\"))",
+			"__str__",
+			"",
+			"json.dumps",
+			"\\n",
+			"",
+			"GitLab",
+			"config/",
+			"simtinuum",
+			"",
+			"stores-ui-app",
+			"database",
+			"",
+			"2017",
+			"True",
+			"False",
+			"$editform",
+			"data-type-detail",
+			"ctl",
+			"",
+			"FROMREV",
+			"PKGREVPROG",
+			"Rickart",
+			"Peter Herbert",
+			"12345678",
+			"fakecustomer",
+			"9999",
+			"",
+			"_create_mongodb_indexes",
+			".legato.pi_data",
+			"",
+			"True",
+			"platform-api",
+			"- /",
+			"summary",
+			"None",
+			"seconds: 30",
+			"    - ",
+			"",
+			"    - ",
+			"",
+			"proc",
+			"    - ",
+			"",
+			"seconds: 30",
+			"- ",
+			"",
+			"- ",
+			"",
+			"- ",
+			"",
+			"'",
+			"",
+			"_recent",
+			"FILEPAGE",
+			"continuum",
+			"",
+			"-",
+			"",
+			"-\n  name: ",
+			"\n  name: ",
+			"- legato",
+			"mdb.",
+			"",
+			"create_index",
+			"",
+			"db.",
+			"",
+			"#### ",
+			"",
+			"alert('')"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "universe.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"docker",
+				"continuum/build/docker/Dockerfile"
+			],
+			[
+				"jobhan",
+				"continuum/continuum/cskjobhandler/cskjobhandler.py"
+			],
+			[
+				"updatedb",
+				"continuum/common/updatedb.py"
+			],
+			[
+				"mongocon",
+				"continuum/common/install/mongoconfig.yaml"
+			],
+			[
+				"init_mon",
+				"continuum/common/install/init_mongodb.py"
+			],
+			[
+				"cskcdapi",
+				"continuum/continuum/cskcdapi/api.py"
+			],
+			[
+				"apimethod",
+				"continuum/continuum/cskcdapi/apiMethods.py"
+			],
+			[
+				"api.py",
+				"continuum/continuum/catoapi/api.py"
+			],
+			[
+				"catosched",
+				"continuum/continuum/catoscheduler/catoscheduler.py"
+			],
+			[
+				"poller",
+				"continuum/continuum/catopoller/catopoller.py"
+			],
+			[
+				"jobhandler",
+				"continuum/continuum/cskjobhandler/cskjobhandler.py"
+			],
+			[
+				"catoprocess",
+				"continuum/common/lib/catocommon/catoprocess.py"
+			],
+			[
+				"service.con",
+				"continuum/common/conf/default.worker.service.conf"
+			],
+			[
+				"cskmetri",
+				"continuum/continuum/cskmetrics/cskmetrics.py"
+			],
+			[
+				"ctm-metr",
+				"continuum/common/bin/ctm-metrics"
+			],
+			[
+				"catolicense",
+				"continuum/continuum/catolicense/catolicense.py"
+			],
+			[
+				"release.py",
+				"continuum/flow/lib/cskpipeline/release.py"
+			],
+			[
+				"devserver",
+				"continuum/webpack/webpack.devServer.config.json"
+			],
+			[
+				"upload.sh",
+				"continuum/build/upload.sh"
+			],
+			[
+				"cskmet",
+				"continuum/continuum/cskmetrics/cskmetrics.py"
+			],
+			[
+				"metrics.json",
+				"continuum/continuum/metrics/metrics.json"
+			],
+			[
+				"metrics",
+				"continuum/continuum/metrics/metrics.json"
+			],
+			[
+				"cksmsghub",
+				"continuum/continuum/cskmsghub/cskmsghub.py"
+			],
+			[
+				"workerin",
+				"continuum/build/workerinstall.sh"
+			],
+			[
+				"install",
+				"continuum/common/install/install.sh"
+			],
+			[
+				"install.sh",
+				"continuum/build/install.sh"
+			],
+			[
+				"encrypt",
+				"continuum/common/install/ctm-encrypt"
+			],
+			[
+				"ctm-jobhan",
+				"continuum/common/bin/ctm-jobhandler"
+			],
+			[
+				"ctm-poller",
+				"continuum/common/bin/ctm-poller"
+			],
+			[
+				"flow_cmds",
+				"continuum/extensions/flow/flow_commands.xml"
+			],
+			[
+				"cskmsg",
+				"continuum/continuum/cskmsghub/cskmsghub.py"
+			],
+			[
+				"worker",
+				"continuum/common/lib/catocommon/worker.py"
+			],
+			[
+				"cirunn",
+				"continuum/common/bin/ctm-cirunner"
+			],
+			[
+				"project",
+				"continuum/continuum/cskpipeline/project.py"
+			],
+			[
+				"project.py",
+				"continuum/continuum/cskpipeline/project.py"
+			],
+			[
+				"catocr",
+				"continuum/common/lib/catocryptpy/catocryptpy.py"
+			],
+			[
+				"license.py",
+				"continuum/continuum/catolicense/catolicense.py"
+			],
+			[
+				"instal.sh",
+				"continuum/build/install.sh"
+			],
+			[
+				"cskui.",
+				"continuum/continuum/cskui/cskui.py"
+			],
+			[
+				"ctm-register",
+				"continuum/client/bin/ctm-register-artifact"
+			],
+			[
+				"cirunner/",
+				"continuum/continuum/cirunner/__init__.py"
+			],
+			[
+				"ctm-ciru",
+				"continuum/common/bin/ctm-cirunner"
+			],
+			[
+				"item.js",
+				"continuum/scripts/features/operations/Directives/Item.js"
+			],
+			[
+				"job.py",
+				"continuum/plugins/jenkins/job.py"
+			],
+			[
+				"change.py",
+				"continuum/continuum/cskpipeline/change.py"
+			],
+			[
+				"temethods",
+				"continuum/continuum/cskapi/teMethods.py"
+			],
+			[
+				"ctm-reg",
+				"continuum/client/bin/ctm-reversion-packagerevision"
+			],
+			[
+				"flow/config.yaml",
+				"continuum/plugins/flow/config.yaml"
+			],
+			[
+				"catocom",
+				"continuum/common/lib/catocommon/catocommon.py"
+			],
+			[
+				"provision",
+				"continuum-tools/multiinstance/provision.sh"
+			],
+			[
+				"main.py",
+				"continuum/plugins/v1plugin/main.py"
+			],
+			[
+				"simtinuu",
+				"continuum-tools/simtinuum/simtinuum.py"
+			],
+			[
+				"fulltext",
+				"continuum/scripts/pages/fulltextsearch.js"
+			],
+			[
+				"catocommon",
+				"continuum/common/lib/catocommon/catocommon.py"
+			],
+			[
+				"steprunn",
+				"continuum/continuum/cskpipeline/steprunner.py"
+			],
+			[
+				"secure_",
+				"continuum/common/install/secure_mongodb.py"
+			],
+			[
+				"mongo_sec",
+				"continuum/common/install/mongo_secure.py"
+			],
+			[
+				"secure",
+				"continuum/common/install/mongo_secure.py"
+			],
+			[
+				"init_mong",
+				"continuum/common/install/init_mongodb.py"
+			],
+			[
+				"default.se",
+				"continuum/common/conf/default.service.conf"
+			],
+			[
+				"simtin",
+				"continuum-tools/simtinuum/simtinuum.py"
+			],
+			[
+				"mongo_se",
+				"continuum/common/install/mongo_secure.py"
+			],
+			[
+				"init",
+				"continuum/common/install/init_mongodb.py"
+			],
+			[
+				"install.",
+				"continuum/common/install/install.sh"
+			],
+			[
+				"catodb",
+				"continuum/common/lib/catodb/catodb.py"
+			],
+			[
+				"start_ser",
+				"continuum/common/bin/start_services.sh"
+			],
+			[
+				"updatedb.py",
+				"continuum/common/updatedb.py"
+			],
+			[
+				"catoconfi",
+				"continuum/common/lib/catoconfig/catoconfig.py"
+			],
+			[
+				"mong",
+				"continuum/common/install/mongo_secure.py"
+			],
+			[
+				"catoconfig",
+				"continuum/common/lib/catoconfig/catoconfig.py"
+			],
+			[
+				"ctm-stop",
+				"continuum/client/bin/ctm-stop-services"
+			],
+			[
+				"ctm-start-services",
+				"continuum/client/bin/ctm-start-services"
+			],
+			[
+				"restart",
+				"continuum/common/bin/restart_services.sh"
+			],
+			[
+				"stop_ser",
+				"continuum/common/bin/stop_services.sh"
+			],
+			[
+				"start_services",
+				"continuum/common/bin/start_services.sh"
+			],
+			[
+				"start",
+				"continuum/common/bin/start_services.sh"
+			],
+			[
+				"generate",
+				"continuum-tools/license/generate_license.py"
+			],
+			[
+				"uimethods",
+				"continuum/continuum/cskcdui/uiMethods.py"
+			],
+			[
+				"ctm-list-tasks",
+				"continuum/client/bin/ctm-list-tasks"
+			],
+			[
+				"submission",
+				"continuum/plugins/gitlab/submission.py"
+			],
+			[
+				"gitlab.py",
+				"continuum/common/lib/gitlabpy/gitlab.py"
+			],
+			[
+				"gitlab",
+				"continuum/plugins/gitlab/gitlab.py"
+			],
+			[
+				"uimetho",
+				"continuum/continuum/cskautomateui/uiMethods.py"
+			],
+			[
+				"buil",
+				"continuum/build/build.sh"
+			],
+			[
+				"canvashan",
+				"continuum/continuum/cskui/canvashandler.py"
+			],
+			[
+				"dash.py",
+				"continuum/continuum/cclcanvas/dash.py"
+			],
+			[
+				"build",
+				"continuum/build/build.sh"
+			],
+			[
+				"buildw",
+				"continuum/build/buildworker.sh"
+			],
+			[
+				"build.sh",
+				"continuum/build/build.sh"
+			],
+			[
+				"buildwo",
+				"continuum/build/buildworker.sh"
+			],
+			[
+				"flowcm",
+				"continuum/extensions/flow/flowcmds.py"
+			],
+			[
+				"automateui",
+				"continuum/continuum/cskautomateui/cskautomateui.py"
+			],
+			[
+				"project.",
+				"continuum/continuum/cskpipeline/project.py"
+			],
+			[
+				"restar",
+				"continuum-tools/restart_all.sh"
+			],
+			[
+				"page_bul",
+				"continuum/velocity/lib/cskui/page_builder.py"
+			],
+			[
+				"ctm-start",
+				"continuum/client/bin/ctm-start-services"
+			],
+			[
+				"worker.py",
+				"continuum/common/lib/catocommon/worker.py"
+			],
+			[
+				"workeru",
+				"continuum/flow/plugins/plugincommon/workerutils.py"
+			],
+			[
+				"",
+				"continuum/flow/lib/cskpipeline/package.py"
+			],
+			[
+				"plugin",
+				"continuum/scripts/pages/plugin_manage.js"
+			],
+			[
+				"config.py",
+				"continuum/flow/lib/cskconfig/config.py"
+			],
+			[
+				"fulltect",
+				"continuum/velocity/ui/cskui/templates/fulltextsearch.html"
+			],
+			[
+				"pending",
+				"continuum/scripts/features/pipelineInstance/components/PipelineProgress/Step/PendingInteractionStep.js"
+			],
+			[
+				"workitem",
+				"continuum/scripts/pages/workitem_detail.js"
+			],
+			[
+				"taskeng",
+				"continuum/automate/lib/catotaskengine/catotaskengine.py"
+			],
+			[
+				"project_manage.js",
+				"continuum/scripts/pages/project_manage.js"
+			],
+			[
+				"restart_all",
+				"continuum-tools/restart_all.sh"
+			],
+			[
+				"progression_mana",
+				"continuum/scripts/pages/progression_manage.js"
+			],
+			[
+				"progression",
+				"continuum/dist/scripts/progression_manage.js"
+			],
+			[
+				"common",
+				"continuum/flow/lib/cskpipeline/common.py"
+			],
+			[
+				"common.py",
+				"continuum/automate/lib/cskautomateui/common.py"
+			],
+			[
+				"package_revision",
+				"continuum/scripts/pages/package_revision.js"
+			],
+			[
+				"project_detail",
+				"continuum/scripts/pages/project_detail.js"
+			],
+			[
+				"actions.js",
+				"continuum/scripts/features/pipelineInstance/components/Actions/Actions.js"
+			],
+			[
+				"index.js",
+				"continuum/scripts/initialize/index.js"
+			],
+			[
+				"augment",
+				"continuum/flow/extensions/flow/augment_te.py"
+			],
+			[
+				"catopoll",
+				"continuum/automate/lib/catopoller/catopoller.py"
+			],
+			[
+				"lint",
+				"continuum/build/lint.sh"
+			],
+			[
+				"steprunner",
+				"continuum/flow/lib/cskpipeline/steprunner.py"
+			],
+			[
+				"ctm-at",
+				"continuum/common/bin/ctm-autoscheduler"
+			],
+			[
+				"catosch",
+				"continuum/automate/lib/catoscheduler/catoscheduler.py"
+			],
+			[
+				"poller.py",
+				"continuum/automate/lib/catopoller/catopoller.py"
+			],
+			[
+				"admin.js",
+				"continuum/dist/scripts/admin.js"
+			],
+			[
+				"admin.",
+				"continuum/velocity/ui/cskui/templates/admin.html"
+			],
+			[
+				"slack",
+				"continuum/flow/plugins/slackplugin/chat.py"
+			],
+			[
+				"slackpl",
+				"continuum/flow/plugins/slackplugin/chat.py"
+			],
+			[
+				"cskui",
+				"continuum/velocity/lib/cskui/cskui.py"
+			],
+			[
+				"catotask",
+				"continuum/automate/lib/catotaskengine/catotaskengine.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 89.0,
+		"last_filter": "list_tasks",
+		"selected_items":
+		[
+			[
+				"list_tasks",
+				"list_tasks"
+			],
+			[
+				"wmGetConfig",
+				"wmGetConfig"
+			],
+			[
+				"connect_winrm",
+				"connect_winrm"
+			],
+			[
+				"update_settings",
+				"update_settings"
+			],
+			[
+				"wmGetTasksTabl",
+				"wmGetTasksTable"
+			],
+			[
+				"wmGetSystem",
+				"wmGetSystemStatus"
+			],
+			[
+				"apply_label",
+				"apply_label"
+			],
+			[
+				"wmEx",
+				"wmExportTasks"
+			],
+			[
+				"RCstep",
+				"RCStep"
+			],
+			[
+				"wmRemove",
+				"wmRemovePackageFromPhases"
+			],
+			[
+				"get_metric",
+				"get_metric_function"
+			],
+			[
+				".strip",
+				".stringify = function (value, replacer, space)"
+			],
+			[
+				"catoAjax",
+				"function catoAjax()"
+			],
+			[
+				"pipeline__",
+				"pipeline__start_pipelineinstance"
+			],
+			[
+				"__LOOP",
+				"__oneElement__: function oneElement( text, patterns_or_re, previous_nodes )"
+			],
+			[
+				"wmGetWorkitem",
+				"wmGetWorkitem"
+			],
+			[
+				"wmUpdateTa",
+				"wmUpdateTaskParam"
+			],
+			[
+				"wmUpdateT",
+				"wmUpdateTaskParam"
+			],
+			[
+				"__WORKSPACE",
+				"_assign_list_item_to_workspace"
+			],
+			[
+				"set_pi_data",
+				"set_pi_data"
+			],
+			[
+				"wmSavePipeline",
+				"wmSavePipeline"
+			],
+			[
+				"wmCreatePipeline",
+				"wmCreatePipeline"
+			],
+			[
+				"wmSaveM",
+				"wmSaveMyAccount"
+			],
+			[
+				"clear",
+				"clearfloat"
+			]
+		],
+		"width": 1226.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
