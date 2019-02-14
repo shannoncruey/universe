@@ -12,7 +12,7 @@ notifications:
     - shannon@cruey.net
   webhooks:
     urls:
-      - https://postb.in/SZbwsz5w
+      - https://continuum-sandbox.v1host.com/api/accept_webhook?handler=travis-ci&token=58a34c7f5d9e5d0cf7f04855
     on_success: always # default: always
     on_failure: always # default: always
     on_start: always   # default: never
